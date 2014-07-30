@@ -1,0 +1,17 @@
+#circle {
+	position: relative;
+    width: 40px;
+    height: 40px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px; 
+    background: black;
+}
+
+
+#container-rect {
+	position: absolute;
+	width: 1000px;
+    height: 500px;	
+    border: solid 1px black;
+}
